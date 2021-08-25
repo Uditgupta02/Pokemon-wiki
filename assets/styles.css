@@ -79,7 +79,12 @@ section {
 	width: 55px;
 	margin-right: 301px;
 }
-
+.icon1 {
+	width: 55px;
+	margin-left: -69px;
+	margin-right: 10px;
+	height: 19px;
+}
 .nav-content {
 	list-style: none;	
 }
@@ -227,7 +232,7 @@ section {
 }
 
 .pokemon {
-	height: 80px;
+	height: 61px;
 	width: 170px;
 }
 .item1 {
